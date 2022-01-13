@@ -1,0 +1,3 @@
+file management 
+change directory 
+cp = copy the text file 
